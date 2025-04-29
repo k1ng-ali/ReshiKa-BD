@@ -6,10 +6,10 @@
 ## User
 Модель реализует объект ползователя.
 Поля:
-  -nikname
-  -password
-  -firstname
-  -lastname
+  + nikname
+  + password
+  + firstname
+  + lastname
 
 # Инструменты
 ### Django
